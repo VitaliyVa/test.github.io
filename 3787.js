@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkSASSname=self.webpackChunkSASSname||[]).push([[3787],{3787:(e,a,s)=>{e.exports=s.p+"static/media/ZHE-Quad-Recon-Silver.jpg"}}]);

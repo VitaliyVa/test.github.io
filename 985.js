@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkSASSname=self.webpackChunkSASSname||[]).push([[985],{985:(e,i,t)=>{e.exports=t.p+"static/media/Quadratec-Maximum-Duty-2.5in-Coil-Spring-Suspension-Lift-Kit-Nitro-8.0.jpg"}}]);

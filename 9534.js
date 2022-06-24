@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkSASSname=self.webpackChunkSASSname||[]).push([[9534],{9534:(e,s,a)=>{e.exports=a.p+"static/media/shock.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkSASSname=self.webpackChunkSASSname||[]).push([[9059],{9059:(e,a,s)=>{e.exports=s.p+"static/media/WHL-Quad-Baja-Extreme-2-Gun-Metal-Gray.jpg"}}]);

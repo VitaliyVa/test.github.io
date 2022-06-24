@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkSASSname=self.webpackChunkSASSname||[]).push([[4993],{4993:(e,s,S)=>{e.exports=S.p+"static/media/WBO-QRC-Side-Armor-w_2.jpg"}}]);

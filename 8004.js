@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkSASSname=self.webpackChunkSASSname||[]).push([[8004],{8004:(e,a,p)=>{e.exports=p.p+"static/media/WHL-Quad-Morphic-Black-with-Machined-Lip.jpg"}}]);

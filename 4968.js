@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkSASSname=self.webpackChunkSASSname||[]).push([[4968],{4968:(e,i,a)=>{e.exports=a.p+"static/media/Quadratec-Maximum-Duty-2.5in-Coil-Spring-Suspension-Lift-Kit-Fox-2.0-IFP.jpg"}}]);

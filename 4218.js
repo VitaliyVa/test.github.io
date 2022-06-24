@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkSASSname=self.webpackChunkSASSname||[]).push([[4218],{4218:(e,a,s)=>{e.exports=s.p+"static/media/WBO-QRC-FRT-Winch-Ready-Full-Width.jpg"}}]);
