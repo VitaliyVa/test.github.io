@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkSASSname=self.webpackChunkSASSname||[]).push([[6199],{6199:(e,a,p)=>{e.exports=p.p+"static/media/WHL-Quad-Morphic-Gun-Metal-Gray.jpg"}}]);

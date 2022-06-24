@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkSASSname=self.webpackChunkSASSname||[]).push([[9435],{9435:(e,t,a)=>{e.exports=a.p+"static/media/RAA-Quad-Alum-Brute-Strength.jpg"}}]);

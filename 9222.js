@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkSASSname=self.webpackChunkSASSname||[]).push([[9222],{9222:(a,e,c)=>{a.exports=c.p+"static/media/WHL-Quad-Hardrock-Black-with-Machined-Lip.jpg"}}]);

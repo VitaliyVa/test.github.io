@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkSASSname=self.webpackChunkSASSname||[]).push([[3182],{3182:(e,a,s)=>{e.exports=s.p+"static/media/Quadratec-J5-LED.jpg"}}]);

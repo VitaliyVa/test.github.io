@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkSASSname=self.webpackChunkSASSname||[]).push([[8139],{8139:(a,e,s)=>{a.exports=s.p+"static/media/WHL-Quad-Hardrock-Gun-Metal-Gray.jpg"}}]);

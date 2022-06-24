@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkSASSname=self.webpackChunkSASSname||[]).push([[2208],{2208:(e,a,s)=>{e.exports=s.p+"static/media/WHL-Quad-Baja-Extreme-2-Silver.jpg"}}]);

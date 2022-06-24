@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkSASSname=self.webpackChunkSASSname||[]).push([[6776],{6776:(e,a,s)=>{e.exports=s.p+"static/media/WHL-Quad-Rubicon-Xtreme-Satin-Black.jpg"}}]);

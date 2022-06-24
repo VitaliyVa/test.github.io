@@ -15,7 +15,7 @@
       <div id="tk-treble-form"></div>
     </div>
     <div class="test">test</div>
-   
+
     <!-- Load React. -->
     <!-- Note: when deploying, replace "development.js" with "production.min.js". -->
     <script
@@ -30,18 +30,22 @@
 
     <script>
       console.log(123);
-      window
-        .threekitPlayer({
-          authToken: "8eb60f79-fabf-4913-92fb-511cb1ce5136",
-          el: document.getElementById("tk-treble-app"),
+      async function init() {
+        const player = await window.threekitPlayer({
           assetId: "bf1ef605-0c1d-459f-9557-738aed1a61b8",
-          showConfigurator: true,
-          showAR: false,
-        })
-        .then(async function (player) {
-          window.player = player;
+          authToken: "e5bbde08-93d9-476f-9e2c-2017bd1f4d9d",
+          el: document.getElementById("tk-treble-app"),
         });
+
+        console.log("player: ", player);
+
+        window.player = player;
+        window.configurator = await player.getConfigurator();
+      }
+      init();
     </script>
+
+    <!-- <script defer="defer" src="treble-app.js"></script> -->
 
     <!-- Load our React component. -->
   </body>

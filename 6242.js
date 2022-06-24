@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkSASSname=self.webpackChunkSASSname||[]).push([[6242],{6242:(a,e,p)=>{a.exports=p.p+"static/media/WHL-Quad-Morphic-Satin-Black.jpg"}}]);
