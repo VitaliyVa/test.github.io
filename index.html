@@ -1,52 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <meta charset="utf-8" />
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="description" content="Threekit" />
+    <title>Threekit | Treble App</title>
     <script defer="defer" src="treble-app.js"></script>
     <link href="treble-app.css" rel="stylesheet" />
   </head>
   <body>
-    <div class="test">test</div>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
     <div class="tk-treble-app">
       <div id="tk-treble-root"></div>
       <div id="tk-treble-form"></div>
     </div>
-    <div class="test">test</div>
-
-    <!-- Load React. -->
-    <!-- Note: when deploying, replace "development.js" with "production.min.js". -->
-    <script
-      src="https://unpkg.com/react@18/umd/react.development.js"
-      crossorigin
-    ></script>
-    <script
-      src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"
-      crossorigin
-    ></script>
-    <script src="https://preview.threekit.com/app/js/threekit-player.js"></script>
-
-    <script>
-      console.log(123);
-      async function init() {
-        const player = await window.threekitPlayer({
-          assetId: "bf1ef605-0c1d-459f-9557-738aed1a61b8",
-          authToken: "e5bbde08-93d9-476f-9e2c-2017bd1f4d9d",
-          el: document.getElementById("tk-treble-app"),
-        });
-
-        console.log("player: ", player);
-
-        window.player = player;
-        window.configurator = await player.getConfigurator();
-      }
-      init();
-    </script>
-
-    <!-- <script defer="defer" src="treble-app.js"></script> -->
-
-    <!-- Load our React component. -->
   </body>
 </html>

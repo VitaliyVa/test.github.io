@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkSASSname=self.webpackChunkSASSname||[]).push([[7235],{7235:(a,e,s)=>{a.exports=s.p+"static/media/Baja-Boss-MT-Radial.jpg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkSASSname=self.webpackChunkSASSname||[]).push([[3059],{3059:(e,a,s)=>{e.exports=s.p+"static/media/ZHE-Quad-Recon-Gun-Metal-Gray.jpg"}}]);

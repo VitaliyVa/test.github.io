@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkSASSname=self.webpackChunkSASSname||[]).push([[7471],{7471:(e,a,s)=>{e.exports=s.p+"static/media/SKJ_Quad_3.5IN_Lift_Kit_JT-RUB_HYDRO_16400-0087.jpg"}}]);

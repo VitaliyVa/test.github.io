@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkSASSname=self.webpackChunkSASSname||[]).push([[5650],{5650:(e,s,a)=>{e.exports=a.p+"static/media/WBO-QRC.jpg"}}]);
