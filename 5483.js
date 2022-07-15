@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkSASSname=self.webpackChunkSASSname||[]).push([[5483],{5483:(e,s,a)=>{e.exports=a.p+"static/media/WARN_Elite.jpg"}}]);
